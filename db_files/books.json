@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "645b4e8fefaf7c246d0bf3a9"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "description": "The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
+  "price": 12.99,
+  "stock": 10,
+  "items_sold": 4
+},{
+  "_id": {
+    "$oid": "645b4f09efaf7c246d0bf3aa"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "description": "The story of Holden Caulfield, a young man who experiences alienation and disillusionment",
+  "price": 10.99,
+  "stock": 5,
+  "items_sold": 1
+},{
+  "_id": {
+    "$oid": "645b4f11efaf7c246d0bf3ab"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "description": "The story of a young girl named Scout and her family in a small Southern town during the Great Depression",
+  "price": 9.99,
+  "stock": 8,
+  "items_sold": 8
+},{
+  "_id": {
+    "$oid": "645b4f18efaf7c246d0bf3ac"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "description": "A dystopian novel set in a totalitarian society where the government has complete control over the lives of its citizens",
+  "price": 12.99,
+  "stock": 3,
+  "items_sold": 2
+},{
+  "_id": {
+    "$oid": "645b4f1fefaf7c246d0bf3ad"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "description": "The story of Bilbo Baggins, a hobbit who goes on an adventure with a group of dwarves to reclaim their treasure from a dragon",
+  "price": 11.99,
+  "stock": 7,
+  "items_sold": 2
+},{
+  "_id": {
+    "$oid": "645b4f26efaf7c246d0bf3ae"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "description": "The epic tale of the struggle between good and evil in Middle-earth",
+  "price": 24.99,
+  "stock": 2,
+  "items_sold": 12
+},{
+  "_id": {
+    "$oid": "645b4f2defaf7c246d0bf3af"
+  },
+  "title": "The Great Expectations",
+  "author": "Charles Dickens",
+  "description": "The story of the orphan Pip and his journey to becoming a gentleman",
+  "price": 8.99,
+  "stock": 12,
+  "items_sold": 0
+},{
+  "_id": {
+    "$oid": "645b4f33efaf7c246d0bf3b0"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "description": "The story of the Bennet sisters and their romantic pursuits in Georgian England",
+  "price": 7.99,
+  "stock": 9,
+  "items_sold": 5
+},{
+  "_id": {
+    "$oid": "645b4f3fefaf7c246d0bf3b2"
+  },
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "description": "The story of a young man named Dorian Gray and his descent into corruption and debauchery",
+  "price": 9.99,
+  "stock": 6,
+  "items_sold": 3
+},{
+  "_id": {
+    "$oid": "645b4f45efaf7c246d0bf3b3"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "description": "The story of a shepherd boy named Santiago who goes on a journey to fulfill his dreams",
+  "price": 10.99,
+  "stock": 17,
+  "items_sold": 15
+}]
